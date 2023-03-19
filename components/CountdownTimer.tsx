@@ -24,11 +24,7 @@ const CountdownTimer: React.FC<CountdownTimerProps> = () => {
     if (completed) {
       return (
         <div>
-          <h2
-            className="text-white text-center animate-bounce"
-            xt-xl
-            text-center
-          >
+          <h2 className="text-white text-center animate-bounce">
             Ticket Sales have now CLOSED for this draw
           </h2>
           <div className="flex space-x-6">

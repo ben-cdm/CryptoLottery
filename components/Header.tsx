@@ -35,6 +35,7 @@ const Header: React.FC<HeaderProps> = () => {
         <a
           href="https://thirdweb.com/mumbai/0x07f17407237159aA83C86275De8703644cf1468f?utm_source=contract_badge"
           target="_blank"
+          rel="noreferrer"
         >
           <img
             width="200"
@@ -55,6 +56,7 @@ const Header: React.FC<HeaderProps> = () => {
         <a
           href="https://thirdweb.com/mumbai/0x07f17407237159aA83C86275De8703644cf1468f?utm_source=contract_badge"
           target="_blank"
+          rel="noreferrer"
         >
           <img
             width="200"
